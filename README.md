@@ -15,15 +15,15 @@ Atualmente trabalho na área de suporte de TI e busco minha primeira oportunidad
 - Git e GitHub
 
 Atualmente estudando:
-- PostgreeSQL
+- PostgreSQL
 - TypeScript
 
 ## 🚀 Projetos
 
-### Lumina
+### [Lumina](https://github.com/guiac-sz/lumina-finance)
 Aplicação Full Stack para gerenciamento de finanças pessoais, atualmente em desenvolvimento com React, Node.js e Express.
 
-### Employee Onboarding Automation
+### [Employee Onboarding Automation](https://github.com/guiac-sz/EmployeeOnboardingAutomation)
 Ferramenta desenvolvida em Python para automatizar parte do processo de onboarding de colaboradores.
 
 ## 📫 Contato
