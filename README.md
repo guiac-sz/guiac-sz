@@ -1,16 +1,32 @@
-## Hi there 👋
+# Guilherme Aguiar Correia
 
-<!--
-**guiac-sz/guiac-sz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formado em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Full Stack.
 
-Here are some ideas to get you started:
+Atualmente trabalho na área de suporte de TI e busco minha primeira oportunidade como Desenvolvedor Júnior, colocando em prática meus conhecimentos através de projetos pessoais e soluções para problemas reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+
+- JavaScript
+- React
+- Node.js
+- Express
+- HTML
+- CSS
+- Git e GitHub
+
+Atualmente estudando:
+- PostgreeSQL
+- TypeScript
+
+## 🚀 Projetos
+
+### Lumina
+Aplicação Full Stack para gerenciamento de finanças pessoais, atualmente em desenvolvimento com React, Node.js e Express.
+
+### Employee Onboarding Automation
+Ferramenta desenvolvida em Python para automatizar parte do processo de onboarding de colaboradores.
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/guiac67
+- Email: guiac67@gmail.com
