@@ -4,7 +4,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimen
 
 Atualmente trabalho na área de suporte de TI e busco minha primeira oportunidade como Desenvolvedor Júnior, colocando em prática meus conhecimentos através de projetos pessoais e soluções para problemas reais.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - JavaScript
 - React
@@ -18,7 +18,7 @@ Atualmente estudando:
 - PostgreSQL
 - TypeScript
 
-## 🚀 Projetos
+## Projetos
 
 ### [Lumina](https://github.com/guiac-sz/lumina-finance)
 Aplicação Full Stack para gerenciamento de finanças pessoais, atualmente em desenvolvimento com React, Node.js e Express.
@@ -26,7 +26,7 @@ Aplicação Full Stack para gerenciamento de finanças pessoais, atualmente em d
 ### [Employee Onboarding Automation](https://github.com/guiac-sz/EmployeeOnboardingAutomation)
 Ferramenta desenvolvida em Python para automatizar parte do processo de onboarding de colaboradores.
 
-## 📫 Contato
+## Contato
 
 - LinkedIn: https://www.linkedin.com/in/guiac67
 - Email: guiac67@gmail.com
