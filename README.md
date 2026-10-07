@@ -6,17 +6,10 @@ Atualmente trabalho na área de suporte de TI e busco minha primeira oportunidad
 
 ## Tecnologias
 
-- JavaScript
-- React
-- Node.js
-- Express
-- HTML
-- CSS
-- Git e GitHub
-
-Atualmente estudando:
-- PostgreSQL
-- TypeScript
+- Front-end: React, HTML, CSS 
+- Back-end: Node.js, Express, APIs REST 
+- Ferramentas: Git e GitHub 
+- Estudando: TypeScript e PostgreSQL
 
 ## Projetos
 
