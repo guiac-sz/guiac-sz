@@ -6,18 +6,21 @@ Atualmente trabalho na área de suporte de TI e busco minha primeira oportunidad
 
 ## Tecnologias
 
-- Front-end: React, HTML, CSS 
-- Back-end: Node.js, Express, APIs REST 
+- Front-end: React, Bootstrap, HTML, CSS
+- Back-end: Node.js, Express, APIs REST
+- Banco de Dados: PostgreSQL
 - Ferramentas: Git e GitHub 
-- Estudando: TypeScript e PostgreSQL
+- Estudando: TypeScript
 
 ## Projetos
 
 ### [Lumina](https://github.com/guiac-sz/lumina-finance)
 Aplicação Full Stack para gerenciamento de finanças pessoais, atualmente em desenvolvimento com React, Node.js e Express.
 
-### [Employee Onboarding Automation](https://github.com/guiac-sz/EmployeeOnboardingAutomation)
-Ferramenta desenvolvida em Python para automatizar parte do processo de onboarding de colaboradores.
+### [Florist Catalog](https://github.com/guiac-sz/florist-catalog)
+Catálogo digital para floriculturas que vendem pelo Instagram e WhatsApp. O cliente navega pelos produtos, pesquisa flores, filtra por categoria, vê os detalhes de cada item e monta o pedido no carrinho, que é enviado já formatado para o WhatsApp da loja.
+
+Link para acesso: (https://florist-catalog-lovat.vercel.app)
 
 ## Contato
 
